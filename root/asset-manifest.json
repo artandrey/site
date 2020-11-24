@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/website/root/static/css/main.a5818445.chunk.css",
+    "main.js": "/website/root/static/js/main.db329d86.chunk.js",
+    "main.js.map": "/website/root/static/js/main.db329d86.chunk.js.map",
+    "runtime-main.js": "/website/root/static/js/runtime-main.39adf459.js",
+    "runtime-main.js.map": "/website/root/static/js/runtime-main.39adf459.js.map",
+    "static/js/2.4696840b.chunk.js": "/website/root/static/js/2.4696840b.chunk.js",
+    "static/js/2.4696840b.chunk.js.map": "/website/root/static/js/2.4696840b.chunk.js.map",
+    "index.html": "/website/root/index.html",
+    "precache-manifest.1b52c0bd7ae9c8c1526d9fec840f2776.js": "/website/root/precache-manifest.1b52c0bd7ae9c8c1526d9fec840f2776.js",
+    "service-worker.js": "/website/root/service-worker.js",
+    "static/css/main.a5818445.chunk.css.map": "/website/root/static/css/main.a5818445.chunk.css.map",
+    "static/js/2.4696840b.chunk.js.LICENSE.txt": "/website/root/static/js/2.4696840b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/website/root/static/media/rubo-franc-kazaki-u-gornoy.50863b57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39adf459.js",
+    "static/js/2.4696840b.chunk.js",
+    "static/css/main.a5818445.chunk.css",
+    "static/js/main.db329d86.chunk.js"
+  ]
+}
